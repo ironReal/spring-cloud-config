@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_token_rabbitMQ
+  secret: '{cipher}AQCemDSqoiJ9mKbPPRgWLBCRJrbqo05rn7gdvhpqXFpZ3jqc/UznaVa2nkfyN0Rex/P4pPFt43IPTBvnnl7T+FuVu287arpRxO4tuxmg6knCsWB7XMBfMU2QkotmZPyxo6R0umhZA2E3xnVocIlyED5jGEWrkOytVRY57BEu5GusHTPjCJWdhWKScl27f0uJsmyBykHYSlZVH+nQRGFSBKRgQh+5kBQWXoAJk4USSP5jtlgtxs/QH9T8k7MjG0+HpMA3i+392q9lSPtjm/xvOXhxrjQ1ygJPWbT9kkkq1k16DeVBa3Rf6VCADD8XaHjvtq93kvyvneGiYLFflUeyhYqFnvwqCD7cIW2ZGZuXQyRJFuF2bmtMc8/EK8hiKlGHrWg/SaCvHljDiNyQGmks8YGz'
 
 gateway:
   ip: 192.168.0.8
